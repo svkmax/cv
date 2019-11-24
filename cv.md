@@ -27,7 +27,7 @@ Participated in many projects and lead some of them. 6 years experience in softw
   - It is a schedule application for clinic. Application allow one person to manage all changes in
                                                                                           schedule and have a bunch of reports based on needs and rules in institution.Calculate bonuses, addition shifts, compensation.
                                                                                           Save reports from previous months for a record. Several user roles allow to make changes in own schedule in case of illness, emergency, by fact, etc
-  - Stack: ["RubyOnRails", "PosqgreSQL"]
+  - Stack: ["RubyOnRails", "PostgreSQL"]
 + CloudBroker
   - The CloudBroker Platform is a middleware and application store for compute intensive applications in the cloud.
          It works on different public and private clouds (e.g., Amazon Web Services, CloudSigma, OpenStack, OpenNebula
