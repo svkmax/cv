@@ -22,8 +22,8 @@ Participated in many projects and lead some of them. 6 years experience in softw
   - Mid size company. Out staff. Working period was 2015-2018
 + Jet Solutions
   - Mid size company. Out staff. Working period was 2019-2020
-+ Livegenic
-  - Mid size company. Out staff. Working period was 2020-current
++ NDA
+  - Global. Product company. Working period was 2020-current
 ---
 >## __Projects__
 ---
