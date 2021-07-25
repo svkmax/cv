@@ -20,6 +20,10 @@ Participated in many projects and lead some of them. 6 years experience in softw
   - Product based company. Working period was 2014-2015
 + ChiSoftware
   - Mid size company. Out staff. Working period was 2015-2018
++ Jet Solutions
+  - Mid size company. Out staff. Working period was 2019-2020
++ Livegenic
+  - Mid size company. Out staff. Working period was 2020-current
 ---
 >## __Projects__
 ---
@@ -53,6 +57,12 @@ Participated in many projects and lead some of them. 6 years experience in softw
   - Application helps to find a talents for an event 
                                                     and deliver a communication channel between trade mark and person who goes to promote it during event. 
   - Stack: ["RubyOnRails", "MySQL", "Angular", "JQuery", "Grape", "Capistrano"]
++ NDA
+  - Product stocktaking tracking system. API in distributed system.
+  - Stack: ["RubyOnRails", "MySQL", "JQuery"]
++ NDA
+  - SPA for tracking product for global company using data from 3rd service.
+  - Stack: ["RubyOnRails", "Postgresql", "React"]
 ---
 >## __Worked with__
 ---
