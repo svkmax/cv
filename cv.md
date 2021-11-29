@@ -15,15 +15,15 @@ Participated in many projects and lead some of them. 6 years experience in softw
 >## __Companies__
 ---
 + ScaleTools
-  - Company has as own products as provide out staff service. Working period was 2010-2013
+  - Company has as own products as provide out staff service. Working period: 2010-2013
 + QuickBlox
-  - Product based company. Working period was 2014-2015
+  - Product based company. Working period: 2014-2015
 + ChiSoftware
-  - Mid size company. Out staff. Working period was 2015-2018
+  - Mid size company. Out staff. Working period: 2015-2018
 + Jet Solutions
-  - Mid size company. Out staff. Working period was 2019-2020
+  - Mid size company. Out staff. Working period: 2019-2020
 + NDA
-  - Global. Product company. Working period was 2020-current
+  - Global. Product company. Working period is 2020-current
 ---
 >## __Projects__
 ---
